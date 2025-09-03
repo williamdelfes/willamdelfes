@@ -29,9 +29,9 @@ BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powe
 ## 📊 Minhas Estatísticas no GitHub
 
 ![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula)\
+Stats](https://github-readme-stats.vercel.app/api?username=williamdelfes&show_icons=true&theme=dracula)\
 ![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula)
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamdelfes&layout=compact&theme=dracula)
 
 ------------------------------------------------------------------------
 
@@ -44,3 +44,4 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARI
 
 ⭐ Sempre em busca de aprender, compartilhar e construir projetos que
 gerem impacto real.
+
