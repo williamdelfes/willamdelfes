@@ -22,7 +22,12 @@ BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powe
 
 ## 📂 Projetos em Destaque
 
-*(Em breve vou compartilhar alguns dos meus projetos por aqui! 🚀)*
+Análise de Vendas
+
+Descrição: Este projeto demonstra uma análise simples de dados de vendas utilizando Python, pandas e matplotlib.
+Tecnologias utilizadas: Python, pandas, matplotlib
+Aprendizado: Aprimorei minhas habilidades em análise de dados, visualização de informações e manipulação de dados com pandas.
+Link do projeto: https://github.com/williamdelfes/analise-vendas
 
 ------------------------------------------------------------------------
 
